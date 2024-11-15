@@ -59,8 +59,7 @@ To deepen my understanding of network penetration testing and Active Directory e
 ---
 
 ## Certifications 📜
-- **Practical Ethical Hacking**: Focus on network penetration testing and Active Directory attacks.
-- **Practical Bug Bounty**: Specialized in web application penetration testing and reporting.
+- **Practial Junior Web Tester**: Specialized in web application penetration testing and reporting.
 
 ---
 
